@@ -19,6 +19,6 @@
   </a>
   <a href="mailto:staticstic@gmail.com">
     <img
-      src="https://img.shields.io/badge/staticstic@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
