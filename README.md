@@ -12,3 +12,13 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
 
 <br>
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://staticstic.notion.site/Data-Analyst-36091ad8d31e4a87878b6ed3b63f63df">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:staticstic@gmail.com">
+    <img
+      src="https://img.shields.io/badge/staticstic@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
