@@ -5,10 +5,10 @@
   
 ## 🛠️ Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/numpy-4d77cf?style=flat&logo=numpy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=Matplotlib&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/></a>  
