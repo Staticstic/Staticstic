@@ -17,10 +17,7 @@
 ## 📫 Contact 📫</h3>
 <div align="center">
   <a href="https://staticstic.notion.site/Data-Analyst-36091ad8d31e4a87878b6ed3b63f63df">
-    <img src="https://img.shields.io/badge/Notion-E8E8E8?style=flat&logo=notion&logoColor=black" />&nbsp
-  </a>
+    <img src="https://img.shields.io/badge/Notion-E8E8E8?style=flat&logo=notion&logoColor=black"/></a>
   <a href="mailto:staticstic@gmail.com">
-    <img
-      src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
