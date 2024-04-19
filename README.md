@@ -1,7 +1,7 @@
 
 <div align = "center">
   
-### 🛠️ Tech Stack 🛠️
+## 🛠️ Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/></a>  
@@ -12,7 +12,9 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
 
 <br>
-<h3 align="center">📫 Contact 📫</h3>
+
+<h3 align="center">
+## 📫 Contact 📫</h3>
 <div align="center">
   <a href="https://staticstic.notion.site/Data-Analyst-36091ad8d31e4a87878b6ed3b63f63df">
     <img src="https://img.shields.io/badge/Notion-E8E8E8?style=flat&logo=notion&logoColor=black" />&nbsp
