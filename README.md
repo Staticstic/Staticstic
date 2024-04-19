@@ -3,7 +3,7 @@
 
 <div align = "center">
   
-## 🛠️ Tech Stack 🛠️
+### 🛠️ Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/numpy-4d77cf?style=flat&logo=numpy&logoColor=white"/></a>
@@ -20,7 +20,7 @@
 
 <h3 align="center">
   
-## 📫 Contact 📫
+### 📫 Contact 📫
 <div align="center">
   <a href="https://staticstic.notion.site/Data-Analyst-36091ad8d31e4a87878b6ed3b63f63df">
     <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=black"/></a>
