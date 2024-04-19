@@ -1,5 +1,4 @@
-<img src="https://github.com/Staticstic/Staticstic/assets/126994526/ea9e89f7-5614-4360-99f8-8fc583711663" width="20%" height="30%">
-![jaeyun](https://github.com/Staticstic/Staticstic/assets/126994526/ea9e89f7-5614-4360-99f8-8fc583711663)
+<img src="https://github.com/Staticstic/Staticstic/assets/126994526/ea9e89f7-5614-4360-99f8-8fc583711663" width="80%" height="30%">
 
 
 <div align = "center">
