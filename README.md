@@ -1,4 +1,4 @@
-<img src="https://github.com/Staticstic/Staticstic/assets/126994526/ea9e89f7-5614-4360-99f8-8fc583711663" width="80%" height="30%">
+<p align="center"><img src="https://github.com/Staticstic/Staticstic/assets/126994526/ea9e89f7-5614-4360-99f8-8fc583711663" width="60%" height="40%">
 
 
 <div align = "center">
